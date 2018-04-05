@@ -20,6 +20,7 @@
 #' ## make a data frame
 #' VL <- data.frame(titer = titer, type = type)
 
+# Making extra comments here
 
 median_test <- function(x, fac, n = 999, ...){
   ## check dependencies
