@@ -22,6 +22,7 @@
 
 # Making extra comments here
 # Even more comments
+# Hello
 
 median_test <- function(x, fac, n = 999, ...){
   ## check dependencies
